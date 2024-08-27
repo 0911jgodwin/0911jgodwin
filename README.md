@@ -15,8 +15,11 @@ You can find playable versions of some of the projects I've worked on at the fol
 
 ## 📚 Proficient With 📚
 
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,blender,figma,github,unity,unreal,rider,vscode)](https://skillicons.dev)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,cpp,blender,figma,github,unity,unreal,rider,vscode" />
+  </a>
+</p>
 <!--
 **0911jgodwin/0911jgodwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
