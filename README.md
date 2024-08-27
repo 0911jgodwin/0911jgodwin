@@ -1,4 +1,21 @@
-## Hi there 👋
+
+<img src="/img/header-logo.svg">
+
+## 👋 Hi there 👋
+
+I'm an aspiring games developer looking to break into the industry!
+
+## 🌱 Currently Learning 🌱 ##
+
+Unreal Engine, with an emphasis on combining blueprints and c++!
+
+## ⚡ Play My Games! ⚡
+
+You can find playable versions of some of the projects I've worked on at the following address: https://jgodwin96.itch.io/
+
+## 📚 Proficient With 📚
+
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,blender,figma,github,unity,unreal,rider,vscode)](https://skillicons.dev)
 
 <!--
 **0911jgodwin/0911jgodwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
