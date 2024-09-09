@@ -16,9 +16,7 @@ You can find playable versions of some of the projects I've worked on at the fol
 ## 🎥 View My Portfolio! 🎥
 
 <p align="center">
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/c0NnyCoX5c8">
-</iframe>
+[![Portfolio Showcase](https://img.youtube.com/vi/c0NnyCoX5c8/0.jpg)](https://www.youtube.com/watch?v=c0NnyCoX5c8)
 </p>
 
 ## 📚 Proficient With 📚
