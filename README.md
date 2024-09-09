@@ -13,6 +13,14 @@ Unreal Engine, with an emphasis on combining blueprints and c++!
 
 You can find playable versions of some of the projects I've worked on at the following address: https://jgodwin96.itch.io/
 
+## 🎥 View My Portfolio! 🎥
+
+<p align="center">
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/c0NnyCoX5c8">
+</iframe>
+</p>
+
 ## 📚 Proficient With 📚
 
 <p align="center">
